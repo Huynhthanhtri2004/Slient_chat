@@ -1,6 +1,8 @@
 # Silent Chat
 
 App chat realtime (Flutter + Firebase)
+demo:  https://slientchat.web.app
+
 
 ## Chạy thử
 
@@ -13,5 +15,6 @@ flutter run
 ```
 
 **Yêu cầu:** Flutter SDK, Firebase project (bật Auth Email/Password + Firestore).  
+
 
 
